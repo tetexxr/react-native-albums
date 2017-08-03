@@ -7,7 +7,7 @@ import Header from './src/components/header';
 
 // Create a component
 const App = () => (
-    <Header />
+	<Header />
 );
 
 // Render it to a device
